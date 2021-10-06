@@ -31,4 +31,4 @@ run the index.html file from the directory
 
 ## Deployment
 <!-- Full configuration and instructions for deploying to production. -->
-- The site is deployed at the following url: https://serene-cori-ad2bc0.netlify.app/
+- The site is deployed at the following url: https://zen-borg-be99d7.netlify.app
